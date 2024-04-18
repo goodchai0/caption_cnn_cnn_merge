@@ -12,7 +12,7 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 app = Flask(__name__)
 
 # Load the Keras model
-model = load_model('./my_modelcnn_cnn_merge1.h5')
+model = load_model('./my_modelcnn_cnn_merge2.h5')
 
 # Load ResNet50 model for feature extraction
 resnet_model = ResNet50()

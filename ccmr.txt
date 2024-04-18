@@ -1,8 +1,8 @@
-Flask==2.0.2
-Pillow==8.4.0
-requests==2.26.0
-tensorflow==2.16.1
-keras==3.0.0
-nltk==3.6.5
+Flask
+Pillow
+requests
+tensorflow
+keras
+nltk
 gunicorn
-Werkzeug==2.0.2
+Werkzeug
